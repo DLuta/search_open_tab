@@ -1,2 +1,2 @@
 # search_open_tab
-Search history open tab
+Search for words in open tabs
